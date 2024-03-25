@@ -1,0 +1,8 @@
+aiosmtplib==3.0.1
+fastapi==0.110.0
+gunicorn==21.2.0
+httpcore==1.0.4
+pip-chill==1.0.3
+python-multipart==0.0.9
+python3-boleto==1.0.7
+uvicorn==0.29.0
